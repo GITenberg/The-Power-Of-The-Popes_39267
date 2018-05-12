@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35223
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Claude_Fran%C3%A7ois_Daunou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39267#The-Power-Of-The-Popes
 gutenberg_issued: '2012-03-12'
 gutenberg_type: Text
 identifiers:
