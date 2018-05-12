@@ -1,0 +1,33 @@
+_repo: The-Power-Of-The-Popes_39267
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daunou, P. C. F. (Pierre Claude François)
+    aliases:
+    - Daunou, P. C. F. (Pierre Claude Francois)
+    - Daunou, Pierre Claude François
+    - Daunou, Pierre-Claude-François
+    birthdate: 1761
+    deathdate: 1840
+    gutenberg_agent_id: '35223'
+    url: http://www.gutenberg.org/2009/agents/35223
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Claude_Fran%C3%A7ois_Daunou
+description: ''
+gutenberg_issued: '2012-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Papacy -- History'
+- !lcsh 'Popes -- Temporal power'
+title: "The Power Of The Popes\r\nAn Historical Essay on Their Temporal Dominion,\
+  \ and the Abuse of Their Spiritual Authority"
+url: http://www.gutenberg.org/ebooks/39267
